@@ -12,10 +12,10 @@
 
 ## Work with
 
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-a879f6?style=for-the-badge&logo=kotlin&logoColor=orange)
 ![Kotlin Multiplatform](https://img.shields.io/badge/kotlin%20multiplatform-a879f6?style=for-the-badge&logo=kotlin&logoColor=orange)
 ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=orange)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=green)
 
 ## A little bit about me
