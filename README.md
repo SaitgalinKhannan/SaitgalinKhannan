@@ -14,7 +14,7 @@
 
 I am Kotlin developer.
 
-* 📫 How to reach me: [Telegram](https://t.me/SaitgalinKhannan)
+* 📫 How to reach me: [Telegram](https://t.me/Khannan_S)
 
 
 <!--
