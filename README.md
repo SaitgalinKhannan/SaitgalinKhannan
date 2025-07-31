@@ -2,14 +2,6 @@
 
 [![madhunimmo](https://github-readme-stats.vercel.app/api/top-langs?username=SaitgalinKhannan&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
-<details>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SaitgalinKhannan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-  [![madhunimmo](https://github-readme-stats.vercel.app/api?username=SaitgalinKhannan&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</details>
-
 ## Work with
 
 ![Kotlin](https://img.shields.io/badge/kotlin-a879f6?style=for-the-badge&logo=kotlin&logoColor=orange)
